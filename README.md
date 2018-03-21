@@ -294,7 +294,7 @@ tensorboard --logdir=./logs
 ```
 * in browser - localhost:6006/
 
-
+* Download the data and store it in hdf5 format in data folder
 ## Authors
 Jun-Yan Zhu, Richard Zhang, Deepak Pathak, Trevor Darrell, Alexei A. Efros, Oliver Wang, Eli Shechtman
 
