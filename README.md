@@ -1,12 +1,4 @@
----
-layout: post-wo-sidebar
-title: Toward Multimodal Image-to-Image Translation
-date: 2018-03-21 15:47:20 +0300
-description: 
-img: teaser.jpg
-content_type: gan
-tags: [GAN, Video Generation]
----
+
 
 ## Code Walkthrough for Bi-Cycle GAN  
 
