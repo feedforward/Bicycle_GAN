@@ -12,7 +12,7 @@
 5. test.py
 6. train.py
 
-![Network]({{site.baseurl}}/assets/img/adfasdfads.gif)
+![Network](https://github.com/krishnacodes/Bicycle_GAN/edit/master/assets/img/adfasdfads.gif)
 ## Libraries
 ```
 import tensorflow as tf
