@@ -12,7 +12,7 @@
 5. test.py
 6. train.py
 
-![Network](https://github.com/krishnacodes/Bicycle_GAN/edit/master/assets/img/adfasdfads.gif)
+![Network](https://github.com/krishnacodes/krishnacodes.github.io/tree/master/assets/img/adfasdfads.gif)
 ## Libraries
 ```
 import tensorflow as tf
@@ -43,7 +43,7 @@ def get_data(image_size=256, dataset='edges2shoes' , is_train=True, debug= False
 		.
 	return return_data
 ```
-![Network]({{site.baseurl}}/assets/img/screenshot.png)
+![Network](https://github.com/krishnacodes/krishnacodes.github.io/tree/master/assets/img/screenshot.png)
 ################################################################################################################
 
 
@@ -108,7 +108,7 @@ class Bicycle_GAN(object):
 
 
 ```
-![Network]({{site.baseurl}}/assets/img/paper-figure.png)
+![Network](https://github.com/krishnacodes/krishnacodes.github.io/tree/master/assets/img/paper-figure.png)
 ################################################################################################################
 
 
